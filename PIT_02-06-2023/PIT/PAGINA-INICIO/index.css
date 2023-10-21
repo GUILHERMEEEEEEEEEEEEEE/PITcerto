@@ -1,0 +1,24 @@
+.flexzinha-para{
+    display: flex;
+    column-gap: 30px;
+    text-align: center;
+  }
+  
+  .img-about {
+    width: 50%;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+
+  .nequa-logo {
+    width: 150px;
+    margin-top: 50px;
+  }
+
+  .usuario {
+    margin-left: -50px;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
